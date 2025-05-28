@@ -6,8 +6,8 @@ This project is a submission for the **Phase 1 Technical Assessment** for the **
 - Clean and modern **UI design** aligned with KonnectImpact's branding.
 - Fully **responsive layout** for desktop, tablet, and mobile views.
 - **Transaction list display** with date, description, amount, and status.
-- Built-in **filters** to sort transactions by date, status, or amount.
-- Seamless **dark mode** toggle for improved user experience.
+- Built-in **FILTERS** to sort transactions by date, status, or amount.
+- Seamless **DARK MODE** toggle for improved user experience.
 - Uses **modular components** for easy maintenance and scalability.
 - Built with **Vite + React** and styled using **Tailwind CSS**.
 
