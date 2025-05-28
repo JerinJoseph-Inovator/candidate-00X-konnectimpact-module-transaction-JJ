@@ -2,15 +2,6 @@
 
 This project is a submission for the **Phase 1 Technical Assessment** for the **Contract Web Developer role** at **Alatree Ventures**. It implements the **Transaction History** module for [KonnectImpact.com](https://konnectimpact.com), following all specified requirements. 
 
-## Features
-- Clean and modern **UI design** aligned with KonnectImpact's branding.
-- Fully **responsive layout** for desktop, tablet, and mobile views.
-- **Transaction list display** with date, description, amount, and status.
-- Built-in **FILTERS** to sort transactions by date, status, or amount.
-- Seamless **DARK MODE** toggle for improved user experience.
-- Uses **modular components** for easy maintenance and scalability.
-- Built with **Vite + React** and styled using **Tailwind CSS**.
-
 ---
 
 ## 🚀 Live Demo
@@ -44,6 +35,8 @@ This project is a submission for the **Phase 1 Technical Assessment** for the **
   - Status
 - Responsive layout and polished UI consistent with brand aesthetics
 - Clean code structure, reusable components, and modern styling
+- Built-in **FILTERS** to sort transactions by date, status, or amount.
+- Seamless **DARK MODE** toggle for improved user experience.
 
 ---
 
