@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 body {
-  @apply font-roboto bg-white text-gray-800;
+  @apply font-roboto bg-white text-gray-800 dark:bg-gray-900 dark:text-gray-100;
 }
 
 h1, h2, h3 {

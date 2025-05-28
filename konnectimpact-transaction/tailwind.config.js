@@ -1,6 +1,6 @@
-// tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx,html}",
@@ -8,8 +8,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#00897B',   // Teal
-        accent: '#CDDC39',    // Lime
+        primary: '#00897B',
+        accent: '#CDDC39',
         neutral: {
           light: '#f7f7f7',
           DEFAULT: '#e0e0e0',
